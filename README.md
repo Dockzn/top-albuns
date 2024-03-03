@@ -1,2 +1,1 @@
-# Top-Albuns
-Meu primeiro projeto melhor trabalhado utilizando conhecimentos básicos em HTML e CSS.
+Este é meu primeiro projeto melhor trabalhado ultilizando conhecimentos basicos de HTML e CSS que aprendi.
