@@ -1,0 +1,105 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(2, 2, 2);
+    margin: 0; 
+    overflow: hidden; 
+}
+
+.titulo{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    margin-top: 3%;
+    font-family: sans-serif, monospace;
+}
+
+.capaBandlands{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.legendaBadlands{
+    color: rgb(217, 217, 217);
+    position: absolute;
+    margin-left: 6%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+}
+
+.capaUltraviolence{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.legendaUltraviolence{
+    color: rgb(217, 217, 217);
+    position: absolute;
+    margin-left: 29%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+}
+
+.capaBBTM{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.legendaBBTM{
+    color: rgb(217, 217, 217);
+    position: absolute;
+    margin-left: 52%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+}
+
+.capaAFD{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.legendaAFD{
+    color: rgb(217, 217, 217);
+    position: absolute;
+    margin-left: 75%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+}
+
+img {
+        transition: transform 0.3s ease-in-out;
+    }
+
+    img:hover {
+        transform: scale(1.1);
+    }
+
+.marca{
+    margin-top: 6%;
+    margin-left: 2%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 50%;
+}
+
+.subtitulo{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 1%;
+    font-family: sans-serif, monospace;
+    
+}
+
+hr{
+    border: 2px solid #ffffff;
+    width: 80%;
+    margin: 20px auto;
+}
+
+a {
+        color: white; 
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline; 
+    }
